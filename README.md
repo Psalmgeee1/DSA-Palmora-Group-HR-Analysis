@@ -1,22 +1,12 @@
 # PALMORA GROUP HR ANALYSIS
-The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues
-bordering on gender inequality in its 3 regions. Unfortunately, the media recently
-published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This
-doesn’t look good for the owners of the business, based on their ambition to scale the
-business to other regions and even overseas. Cases like this can only spiral downwards,
-revealing other issues like the gender pay gap, amongst other possible issues.
-The CEO of Palmoria, Mr Ayodeji Chukwuma, is keen to address these issues before they
-get out of hand. The CHRO, Mr Yunus Shofoluwe, has been assigned the task to identify
-key areas within the business that could give rise to issues and address them immediately.
-Mr Shofoluwe decided to recruit you as an HR Analytics expert to analyse the company’s
-HR data and come up with recommendations for management’s attention. “Now, the
-future of gender equality in Palmoria lies in your hands” – the exact words of Mr
-Shofoluwe before he handed the data to you
-
-## OBJECTIVES
+> **An HR analytics project using Power BI to uncover gender disparities in compensation, performance ratings, and departmental distribution at Palmora Group.**
+## Project Background
+Palmora Group, a manufacturing company based in Nigeria, has come under public scrutiny due to reports of gender inequality across its three regional offices. A recent media headline labeled the company “Palmora, the Manufacturing Patriarchy”, putting the company’s expansion plans and reputation at risk.
+To address this crisis, CEO Mr. Ayodeji Chukwuma tasked Mr. Samuel Gbekeleoluwa with investigating internal HR patterns. I been brought in as an **HR Analytics Expert** to analyze the company’s HR data and present actionable insights to support data-driven decision-making
+## Objectives
 To analyze HR data to discover potential gender disparities in the organization particularly in salary distribution, departmental representation, performance ratings, and bonus allocation  and provide insights to support equitable HR policies.
 ##  PALMORIA HR ANALYTICS — INSIGHT SUMMARY
-Compensation & Bonus Overview
+### Compensation & Bonus Overview
 | Metric                      | Insight / Value                          |
 |-----------------------------|------------------------------------------|
 | Total Employees             | 872 employees                            |
@@ -28,7 +18,7 @@ Compensation & Bonus Overview
 | Top Paying Region           | Kaduna                                   |
 | Salary Band Concentration   | $50K–$90K band has most employees        |
 
-Gender Equality Insights
+### Gender Equality Insights
 | Focus Area                  | Key Insight                              |
 |----------------------------|-------------------------------------------|
 | Gender Distribution        | Male: 53.1%, Female: 46.6%, Others: 0.23% |
@@ -51,3 +41,5 @@ Gender Equality Insights
 
 ## DATA SOURCE
 DSA (The Incubator Hub)
+
+
