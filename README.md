@@ -1,9 +1,9 @@
 # PALMORA GROUP HR ANALYSIS
 > **An HR analytics project using Power BI to uncover gender disparities in compensation, performance ratings, and departmental distribution at Palmora Group.**
-## Project Background
+## PROJECT BACKGROUND
 Palmora Group, a manufacturing company based in Nigeria, has come under public scrutiny due to reports of gender inequality across its three regional offices. A recent media headline labeled the company “Palmora, the Manufacturing Patriarchy”, putting the company’s expansion plans and reputation at risk.
 To address this crisis, CEO Mr. Ayodeji Chukwuma tasked Mr. Samuel Gbekeleoluwa with investigating internal HR patterns. I been brought in as an **HR Analytics Expert** to analyze the company’s HR data and present actionable insights to support data-driven decision-making
-## Objectives
+## OBJECTIVES
 To analyze HR data to discover potential gender disparities in the organization particularly in salary distribution, departmental representation, performance ratings, and bonus allocation  and provide insights to support equitable HR policies.
 ##  PALMORIA HR ANALYTICS — INSIGHT SUMMARY
 ### Compensation & Bonus Overview
